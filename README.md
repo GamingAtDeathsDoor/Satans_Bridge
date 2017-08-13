@@ -1,6 +1,6 @@
 # Satans_Bridge
 A Bridge for Malden created by [GADD]lords8n
-
+Map Markers for the road created by [GADD]Monkeynutz
 
 Simply drop the PBO into your @ExileServer\addons Folder.
 Next restart you will have a fully-functional bridge for Malden.
