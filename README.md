@@ -2,6 +2,8 @@
 A Bridge for Malden created by [GADD]lords8n
 Map Markers for the road created by [GADD]Monkeynutz
 
+Join my Discord at http://discord.gamingatdeathsdoor.com if you have any problems.
+
 Pick the PBO you want (Self Explanatory Lights and No lights)
 
 Simply drop the PBO into your @ExileServer\addons Folder.
