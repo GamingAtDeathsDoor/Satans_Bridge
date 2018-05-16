@@ -9,7 +9,7 @@ class CfgPatches {
 class CfgFunctions {
 	class GADD {
 		class main {
-			file = "\x\addons\satans_bridge\init";
+			file = "\satans_bridge\init";
 			class init {
 				postInit = 1;
 			};
