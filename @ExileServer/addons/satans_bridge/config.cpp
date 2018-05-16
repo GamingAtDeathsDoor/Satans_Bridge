@@ -3,7 +3,7 @@ class CfgPatches {
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"exile_client","exile_server_config"};
+		requiredAddons[] = {};
 	};
 };
 class CfgFunctions {
