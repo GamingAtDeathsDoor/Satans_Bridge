@@ -4,7 +4,9 @@ Map Markers for the road created by [GADD]Monkeynutz
 
 Join my Discord at http://discord.gamingatdeathsdoor.com if you have any problems.
 
-Pick the PBO you want (Self Explanatory Lights and No lights)
+Pick the file you want (Self Explanatory Lights and No lights)
+
+Pack the folder "satans_bridge" into a PBO.
 
 Simply drop the PBO into your @ExileServer\addons Folder.
 Next restart you will have a fully-functional bridge for Malden.
